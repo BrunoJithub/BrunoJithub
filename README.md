@@ -12,6 +12,19 @@
 
 </div>
 
+## Projetos
+
+<div align="center">
+
+| | |
+|---|---|
+| **[Lua7 Soluções](https://www.lua7.com.br)**<br>Site de gráfica e impressão, no ar.<br>`HTML` `CSS` `JavaScript` | **Reserva de material da LAACS**<br>Site público e painel da atlética, com calendário e grade de horários.<br>`HTML` `JavaScript` `Supabase` |
+| **Bot de WhatsApp do DCE**<br>Atendimento com IA para os alunos da UNIVALI.<br>`Node.js` | **Studio Scherow**<br>Site de agendamento para salão de beleza, com painel administrativo.<br>`HTML` `CSS` `JavaScript` `Supabase` |
+
+<sub>Boa parte está em repositórios privados, por serem projetos de clientes e da faculdade.</sub>
+
+</div>
+
 ## Atividade no GitHub
 
 <div align="center">
@@ -23,6 +36,8 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrunoJithub&theme=github_dark" alt="Estatísticas do GitHub" width="49%"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BrunoJithub&theme=github_dark&utcOffset=-3" alt="Horário mais produtivo" width="49%">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrunoJithub&theme=github_dark" alt="Detalhes do perfil" width="99%">
+
+![Cobrinha das contribuições](https://raw.githubusercontent.com/BrunoJithub/BrunoJithub/output/github-snake.svg)
 
 ![Visitantes](https://komarev.com/ghpvc/?username=BrunoJithub&label=Visitantes&color=C3C8D2&labelColor=17181B&style=for-the-badge)
 
